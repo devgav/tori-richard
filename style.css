@@ -1,0 +1,36 @@
+.ui.menu.borderless.topmenu {
+  border-style: none;
+  box-shadow: none;
+  color: #1c1d1d;
+}
+
+.ui.center.aligned.middlecontent.container {
+  color: #231f20;
+}
+
+div > button {
+  color: white;
+}
+.button-position {
+  position: relative;
+  bottom: 64px;
+}
+.cyanicon {
+  color: #00b6cc;
+}
+
+.ui.label.cyanicon-button {
+  background-color: #2fc1d4;
+  color: white;
+  font-size: medium;
+  width: 200px;
+}
+
+.footer-style {
+  background-color: #f5f3e9;
+  color: #231f20;
+}
+
+.ui.list.item > .item.off-black {
+  color: #231f20;
+}
